@@ -146,6 +146,17 @@ To display detailed test results:
 python -m pytest -v
 ```
 
+## Application Screenshots
+
+### 1. Expense Tracking Dashboard
+![Expense Tracking Dashboard](assets/expense_tracking1.png)
+
+### 2. Expense Management
+![Expense Analytics1](assets/expense_tracking2.png)
+
+### 3. Expense Analytics
+![Expense Analytics2](assets/expense-tracking3.png)
+
 ## Author
 
 **Abhishek Vats**
