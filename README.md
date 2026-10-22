@@ -155,7 +155,7 @@ python -m pytest -v
 ![Expense Tracking With Graph](assets/expense_tracking2.png)
 
 ### 3. Expense Tracking With Table
-![Expense Tracking with Table](assets/expense-tracking3.png)
+![Expense Tracking with Table](assets/expense_tracking3.png)
 
 ## Author
 
