@@ -157,6 +157,38 @@ python -m pytest -v
 ### 3. Expense Tracking With Table
 ![Expense Tracking with Table](assets/expense_tracking3.png)
 
+## Database Setup
+
+This project uses MySQL to store expense records.
+
+### 1. Create the database and table
+
+1. Open MySQL Workbench.
+2. Open the `database/schema.sql` file from this project.
+3. Execute the SQL script to create the `expense_manager` database and the `expenses` table.
+
+### 2. Configure environment variables
+
+Set the following environment variables before running the application:
+
+- `DB_HOST`: MySQL server host (default: `localhost`)
+- `DB_USER`: MySQL username (default: `root`)
+- `DB_PASSWORD`: Your MySQL password (required)
+- `DB_NAME`: Database name (default: `expense_manager`)
+
+Never commit your database password or other secrets to GitHub.
+
+### 3. Verify the database
+
+Run the following query in MySQL Workbench:
+
+```sql
+USE expense_manager;
+SHOW TABLES;
+```
+
+The `expenses` table should appear in the results.
+
 ## Author
 
 **Abhishek Vats**
