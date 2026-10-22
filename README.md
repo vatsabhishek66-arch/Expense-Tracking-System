@@ -152,10 +152,10 @@ python -m pytest -v
 ![Expense Tracking Dashboard](assets/expense_tracking1.png)
 
 ### 2. Expense Management
-![Expense Analytics1](assets/expense_tracking2.png)
+![Expense Tracking With Graph](assets/expense_tracking2.png)
 
 ### 3. Expense Analytics
-![Expense Analytics2](assets/expense-tracking3.png)
+![Expense Tracking with Table](assets/expense-tracking3.png)
 
 ## Author
 
