@@ -151,10 +151,10 @@ python -m pytest -v
 ### 1. Expense Tracking Dashboard
 ![Expense Tracking Dashboard](assets/expense_tracking1.png)
 
-### 2. Expense Management
+### 2. Expense Tracking With Graph
 ![Expense Tracking With Graph](assets/expense_tracking2.png)
 
-### 3. Expense Analytics
+### 3. Expense Tracking With Table
 ![Expense Tracking with Table](assets/expense-tracking3.png)
 
 ## Author
